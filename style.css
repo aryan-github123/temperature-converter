@@ -99,8 +99,8 @@ a{
 
 @media (max-width: 1000px){
     .head{
-        height: 700px;
-        width: 650px;
+        height: 1200px;
+        width: 700px;
         text-align: center;
     }
 }
