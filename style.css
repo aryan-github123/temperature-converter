@@ -87,3 +87,11 @@ a{
     color: rgb(81, 81, 199);
     transition: all 0.2s ease-in-out;
 }
+
+
+@media (max-width: 1000px){
+    .head{
+        display: grid;
+        place-items: center;
+    }
+}
