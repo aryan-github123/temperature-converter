@@ -91,7 +91,7 @@ a{
 
 @media (max-width: 1000px){
     .head{
-        display: grid;
-        place-items: center;
+        height: 700px;
+        width: 650px;
     }
 }
